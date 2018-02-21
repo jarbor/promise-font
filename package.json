@@ -1,0 +1,15 @@
+{
+  "name": "promise-font",
+  "version": "1.0.0",
+  "description": "Get a promise that will resolve when a specified font has been loaded and reject if the font fails to load before the timeout.",
+  "main": "promise-font.js",
+  "repository": "https://github.com/jsneden/promise-font",
+  "author": "Jeff Sneden <jeff@agencyautonomous.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.40",
+    "@babel/preset-env": "^7.0.0-beta.40",
+    "babel-loader": "8.0.0-beta.0",
+    "webpack": "^3.11.0"
+  }
+}
