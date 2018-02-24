@@ -1,6 +1,6 @@
 {
   "name": "promise-font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a promise that will resolve when a specified font has been loaded and reject if the font fails to load before the timeout.",
   "main": "promise-font.js",
   "repository": "https://github.com/jsneden/promise-font",
