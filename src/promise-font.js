@@ -18,7 +18,7 @@ let promiseFont = (fontName, config) => {
 	tester.style.top = '-9999px';
 	tester.style.left = '-9999px';
 	tester.style.visibility = 'hidden';
-	tester.style.fontFamily = BASELINE_FONT;
+	tester.style.fontFamily = baselineFont;
 	tester.style.fontSize = '250px';
 
 	// Attach to the DOM and measure the baseline font width
